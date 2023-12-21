@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+npx cryptoenv --disable
+npx hardhat remove-logs
+npx cryptoenv --enable

@@ -1,0 +1,12 @@
+deployments/localhost
+package-lock.json
+node_modules
+playground
+artifacts
+.DS_Store
+.scripts
+.vscode
+cache
+.env
+out
+.vscode
